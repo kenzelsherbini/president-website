@@ -1,0 +1,10 @@
+body {
+    background-image: url('/imgs/bg.avif');
+  }
+
+h6 {
+    font-family: "coronette", serif;
+font-weight: 400;
+font-style: normal;
+color: #4a251a ;
+}
