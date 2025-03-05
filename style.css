@@ -1,5 +1,5 @@
 body {
-    background-image: url('/imgs/bg.avif');
+    background-image: url('/imgs/background.jpg');
     color: #4a251a;
 margin: 0;
 padding: 0;
@@ -21,8 +21,9 @@ top: 10px;
 width: 100%;
 display: flex;
 justify-content: space-between;
-pointer-events: none; 
 }
+
+
 .page-navigation button {
 pointer-events: all; 
 background: none;
@@ -33,6 +34,8 @@ color: #333;
 font-weight: bold;
 margin: 0 20px;
 }
+
+
 .page-navigation button:hover {
 color: #666;
 }
@@ -54,6 +57,10 @@ font-size: 18px;
 font-style: italic;
 margin-bottom: 10px;
 }
+
+
+
+
 
 .navbar {
 background-color: #333;
@@ -108,6 +115,8 @@ margin-bottom: 5px;
 font-size: 20px;
 text-transform: uppercase;
 }
+
+
 .article-box p {
 line-height: 1.5;
 font-size: 16px;
@@ -141,6 +150,9 @@ margin: 20px auto;
 border-top: 3px solid #000;
 padding-top: 20px;
 }
+
+
+
 .bottom-feature h3 {
 font-size: 20px;
 margin-bottom: 10px;
